@@ -28,6 +28,7 @@
 .env.development
 .env.test
 .env.cucumber
+.foreman
 .sass-cache
 coverage
 config/mobile.yml
